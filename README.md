@@ -18,11 +18,11 @@
    - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/water_level_station_BKK020.csv
    - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/water_level_station_BKK021.csv
    - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/water_level_station_CPY015.csv
-3) Download Zeppelin project (json file) as link below:
-   - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/flooding_project.json
    
 # Setup Project:
 1) Import [flooding_project.json](https://github.com/TanaphatC/bigdata-flooding-project/blob/master/flooding_project.json) to your Zeppelin by using following instruction:
+   - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/flooding_project.json
+   
    > **Import note** > **Selected JSON File**
    
    in case of everything seem ok, project 'flooding_project' link have to appear on point 3.
