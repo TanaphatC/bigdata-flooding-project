@@ -21,7 +21,7 @@
 3) Download Zeppelin project (json file) as link below:
    - https://github.com/TanaphatC/bigdata-flooding-project/blob/master/flooding_project.json
    
-# Setup Project
+# Setup Project:
 1) Import [flooding_project.json](https://github.com/TanaphatC/bigdata-flooding-project/blob/master/flooding_project.json) to your Zeppelin by using following instruction:
    > **Import note** > **Selected JSON File**
    
